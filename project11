@@ -1,0 +1,37 @@
+   Project11
+   
+1-	Basics concepts
+
+a- What is a DevOps? 
+
+DevOps is a practice that encourages the collaboration and communication between the developers and users by building, testing and releasing software materials, in such a way that these products will reliable, frequently available and also rapidly deliverable on the market.
+
+b- What is GIT? 
+is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development, but it can be used to keep track of changes in any set of files. As a distributed revision control system it is aimed at speed,[9] data integrity and support for distributed, non-linear workflows. Git can also be defined as an open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance.
+
+c- what is the difference between git and SVN? 
+Git and SVN are both software. Git is SCM, source code management , and a distributed revision control system. SVN is a revision control and software versioning system. Git is a distributed VCS; SVN is a non-distributed VCS. Git has a centralized server and repository; SVN does not have a centralized server or repository. The content in Git is stored as metadata; SVN stores files of content. Git branches are easier to work with than SVN branches. Git does not have the global revision number feature like SVN has. Git has better content protection than SVN. Git was developed for Linux kernel by Linus Torvalds; SVN was developed by CollabNet, Inc. Git is distributed under GNU, and its maintenance overseen by Junio Hamano; Apache Subversion, or SVN, is distributed under the open source license.
+
+d- what continuous integration? 
+is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early. e- what is continuous delivery? is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. It aims at building, testing, and releasing software faster and more frequently.
+
+f- what is scrum?
+Scrum is a framework used by teams to manage their work. It is one of the most popular frameworks for implementing agile. So popular, in fact, that many people think scrum and agile are the same thing. Scrum can also be defined as a framework for project management that emphasizes teamwork, accountability and iterative progress toward a well-defined goal. The framework begins with a simple premise: -Start with what can be seen or known. -After that, track the progress and tweak as necessary.
+
+g- What is agile methodology? 
+it’s a specific approach that fundamentally incorporate iteration and the continuous feedback that it provides to successively refine and deliver a software system. They all involve continuous planning, continuous testing, continuous integration, and other forms of continuous evolution of both the project and the software. What is more important about agile methods is that they all focus on empowering people to collaborate and make decisions together quickly and effectively.
+
+h- what is release calendar?
+It is a reliable release schedule (date and time) which represents what is going on in the development arm of your IT shop.
+
+i-	what is release date? 
+It is a date when a product, press release or news story will be released to the public. The release date is announced in advance to provide consumers and other interested parties specific details regarding the release. This may include the date, day, hour or even minute of the upcoming release.
+
+2-	Give 4 reasons why companies should consider the DevOps method 
+Quality assurance, effectiveness, efficiency and less cost
+
+3- what are some automation tools used in the DevOps environment? 
+Jenkins, ansible, git, SVN, dev server, cat, sat, int, prod, Monit, Its role is to ensure that any given process on a machine is up and running appropriately. ELK – Elasticsearch, Logstash, Kibana: is the most common log analytics solution in the modern IT world. It collects logs from all services, applications, networks, tools, servers, and more in an environment into a single, centralized location for processing and analysis. Consul.io is a great fit for service discovery and configuration in modern, elastic applications that are built from microservices. Docker used in production for most services. It eases configuration management, control issues, and scaling by allowing containers to be moved from one place to another.
+
+4- why is it important to build the software in the test regions before delivering it to production? 
+For quality assurance, cost reduction and improved efficiency, delivery of better software more quickly, effectiveness. These points helps to reduce the amount of time spent on manual updates, make deployments more frequently at less cost, and allow automatic scaling to be done simply and reliably. 5- create a project in your github repository called project4 and in project 4 , create a file called project11 6- copy your homework11 answers into the file project11 and commit it. 7- What is the URL to access your github project11 file? https://github.com/blandine2017/project4/projects
